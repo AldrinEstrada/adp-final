@@ -2,6 +2,6 @@
 
 ## Description
 
-## Team Members
+## Team Members: Madhu, Ingrid, Wendy, Kai and Aldrin
 
 ## APIs
