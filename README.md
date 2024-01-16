@@ -1,7 +1,9 @@
-# Topic: Car Price Comparison
+# Topic
+Car Price Comparison
 
 ## Description
 
-## Team Members: Madhu, Ingrid, Wendy, Kai and Aldrin
+## Team Members
+Madhu, Ingrid, Wendy, Kai and Aldrin
 
 ## APIs
