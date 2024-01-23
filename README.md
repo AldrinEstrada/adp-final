@@ -9,5 +9,5 @@ Madhu, Ingrid, Wendy, Kai and Aldrin
 
 [Pokemon API](https://pokeapi.co/)
 
-[Weather API](https://developer.sabre.com/docs/rest_apis/car/search/vehPriceCheck)
+[Weather API](https://www.weatherapi.com/)
 
