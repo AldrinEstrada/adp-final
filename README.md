@@ -1,14 +1,13 @@
 # Topic
-Car Price Comparison
-
+Pokemon Weather App
 ## Description
-
+An app to tell you the weather, themed around pokemon. In certain weathers, certain pokemon will be displayed along with the information. For example, when it's raining, water pokemon will be displayed. And it will tell you what kind of pokemon could appear in the weather.
 ## Team Members
 Madhu, Ingrid, Wendy, Kai and Aldrin
 
 ## APIs
 
-[Vehicle API](https://developer.edmunds.com/api-documentation/vehicle/)
+[Pokemon API](https://pokeapi.co/)
 
-[Vehicle Price Check API](https://developer.sabre.com/docs/rest_apis/car/search/vehPriceCheck)
+[Weather API](https://developer.sabre.com/docs/rest_apis/car/search/vehPriceCheck)
 
