@@ -9,5 +9,5 @@ Madhu, Ingrid, Wendy, Kai and Aldrin
 
 [Pokemon API](https://pokeapi.co/)
 
-[Weather API](https://www.weatherapi.com/)
+[Weather API](https://www.tomorrow.io)
 
